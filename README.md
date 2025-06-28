@@ -20,49 +20,33 @@ CryptoAnalizer-Aii adalah terminal pintar berbasis Python untuk edukasi, analisi
 ✨ Fitur Unggulan
 
 🔐 Sistem Login Aman
-
-Buat akun dengan username & password unik.
-
-Akun terhubung ke perangkat (device-bound).
-
-Maksimum 3 percobaan login untuk mencegah brute-force.
+1.Buat akun dengan username & password unik.
+2.Akun terhubung ke perangkat (device-bound).
+3.Maksimum 3 percobaan login untuk mencegah brute-force.
 
 
 📊 Analisis Pasar Real-Time
-
-Menampilkan harga kripto (CoinGecko API) & forex terbaru.
-
-Menyediakan indikator teknikal: RSI, EMA, dan analisis tren.
-
-Prediksi harian berbasis data sederhana.
+• Menampilkan harga kripto (CoinGecko API) & forex terbaru.
+• Menyediakan indikator teknikal: RSI, EMA, dan analisis tren.
+• Prediksi harian berbasis data sederhana.
 
 
 🧠 AI Coach & Mentor (Powered by Gemini AI)
-
-Jawab pertanyaan Anda seputar:
-
-Strategi & teknik trading
-
-Psikologi pasar
-
-Terminologi rumit yang dijelaskan dengan simpel
-
-
-AI dapat membimbing proses belajar & pengambilan keputusan.
+> Jawab pertanyaan Anda seputar:
+> Strategi & teknik trading
+> Psikologi pasar
+> Terminologi rumit yang dijelaskan dengan simpel
+> AI dapat membimbing proses belajar & pengambilan keputusan.
 
 
 📰 Update Berita Pasar
-
-Integrasi langsung dengan NewsData.io untuk mendapatkan berita harian pasar global.
-
-Ringkasan otomatis langsung di terminal Anda.
+1.Integrasi langsung dengan NewsData.io untuk mendapatkan berita harian pasar global.
+2.Ringkasan otomatis langsung di terminal Anda.
 
 
 💡 Psikologi Market & Tips Praktis
-
-Saran & tips mengatasi fear, FOMO, dan emosi pasar lainnya.
-
-Materi edukasi yang dikurasi berdasarkan pengalaman nyata trader.
+👉 Saran & tips mengatasi fear, FOMO, dan emosi pasar lainnya.
+👉 Materi edukasi yang dikurasi berdasarkan pengalaman nyata trader.
 
 
 
